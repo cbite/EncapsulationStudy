@@ -1,8 +1,8 @@
 
-<h3>Script to recreate figure 3: ranksum plot </h3>
+<h1>Script to recreate figure 3: ranksum plot </h1>
 The script in this repository () can be used to recreate figure 3 from the paper (XXX). Here, we plot the ranksum of the surfaces (x-axis) against the mean cell count per surface (y-axis).
 
-<h5> How to run the script </h5>
+<h3> How to run the script </h3>
 To run the script you need the following program installed:
 <ol>
   <li> R (version 4.2.1) </li>
@@ -12,8 +12,11 @@ With the following packages installed:
   <li>ggplot2 (version 3.3.6)</li>
 </ol>
 
-<h5> Software license </h5>
+There are two datafiles needed to run the script succesfully (provided in this repository):
+<ol><li>ranking_list.csv_Cell count.csv</li><li>ColorCodingFeatures.csv</li></ol>
+
+<h3> Software license </h3>
 Software is licensed under BSD-2-clause.
 
-<h5> Data license </h5>
+<h3> Data license </h3>
 Data is licensed under ...
