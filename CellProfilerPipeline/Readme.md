@@ -1,1 +1,1 @@
-CellProfiler pipeline used to analyze the TopoChip images (segmentation + obtaining numerical output)
+CellProfiler pipeline used to analyze the TopoChip images (segmentation + obtaining numerical output). The preprocessing pipeline consists of costum written matlab files that should be executed before the cellprofiler run.
